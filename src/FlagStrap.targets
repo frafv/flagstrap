@@ -18,7 +18,7 @@
   <Target Name="Build"
           Inputs="@(ImageFlagStrap)"
           Outputs="$(ImageFlagStrapOutFile)">
-    <Exec Command="&quot;$(SprityPath)&quot; create &quot;$(ImageFlagStrapOutPath)&quot; &quot;16\??.png&quot; &quot;1.5:24\??.png&quot; &quot;2:32\??.png&quot; &quot;3:48\??.png&quot; &quot;4:64\??.png&quot; --no-sort -d 1 -d 1.5 -d 2 -d 3 -d 4 -n flagstrap -s flags --style-indent-size 4 --margin 1 --trim --css-path . --blank-icon"
+    <Exec Command="&quot;$(SprityPath)&quot; create &quot;$(ImageFlagStrapOutPath)&quot; &quot;16\??.png&quot; &quot;1.5:24\??.png&quot; &quot;2:32\??.png&quot; &quot;3:48\??.png&quot; &quot;4:64\??.png&quot; -d 1 -d 1.5 -d 2 -d 3 -d 4 -n flagstrap -s flags --style-indent-size 4 --margin 1 --trim --css-path . --blank-icon --orientation binary-tree"
           WorkingDirectory="$(ImageFlagStrapRoot)" />
   </Target>
 </Project>

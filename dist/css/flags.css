@@ -15,7 +15,7 @@
     only screen and (min-resolution: 1.5dppx) {
     .flagstrap {
         background-image: url('flagstrap@1.5x.png');
-        background-size: 20px 3448px;
+        background-size: 272px 240px;
     }
 }
 @media
@@ -27,7 +27,7 @@
     only screen and (min-resolution: 2dppx) {
     .flagstrap {
         background-image: url('flagstrap@2x.png');
-        background-size: 20px 3448px;
+        background-size: 272px 240px;
     }
 }
 @media
@@ -39,7 +39,7 @@
     only screen and (min-resolution: 2.5dppx) {
     .flagstrap {
         background-image: url('flagstrap@3x.png');
-        background-size: 20px 3448px;
+        background-size: 272px 240px;
     }
 }
 @media
@@ -51,1231 +51,1231 @@
     only screen and (min-resolution: 3.5dppx) {
     .flagstrap {
         background-image: url('flagstrap@4x.png');
-        background-size: 20px 3448px;
+        background-size: 272px 240px;
     }
 }
 .flagstrap-ad {
-    background-position: -2px -18px;
+    background-position: -20px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ae {
-    background-position: -2px -32px;
+    background-position: -2px -18px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-af {
-    background-position: -2px -46px;
+    background-position: -20px -18px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ag {
-    background-position: -2px -60px;
+    background-position: -38px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ai {
-    background-position: -2px -74px;
+    background-position: -38px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-al {
-    background-position: -2px -88px;
+    background-position: -2px -32px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-am {
-    background-position: -2px -102px;
+    background-position: -20px -32px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-an {
-    background-position: -2px -116px;
+    background-position: -38px -32px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ao {
-    background-position: -2px -130px;
+    background-position: -56px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-aq {
-    background-position: -2px -144px;
+    background-position: -56px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ar {
-    background-position: -2px -158px;
+    background-position: -56px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-as {
-    background-position: -2px -172px;
+    background-position: -2px -46px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-at {
-    background-position: -2px -186px;
+    background-position: -20px -46px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-au {
-    background-position: -2px -200px;
+    background-position: -38px -46px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-aw {
-    background-position: -2px -214px;
+    background-position: -56px -46px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ax {
-    background-position: -2px -228px;
+    background-position: -2px -60px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-az {
-    background-position: -2px -242px;
+    background-position: -20px -60px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ba {
-    background-position: -2px -256px;
+    background-position: -38px -60px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bb {
-    background-position: -2px -270px;
+    background-position: -56px -60px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bd {
-    background-position: -2px -284px;
+    background-position: -74px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-be {
-    background-position: -2px -298px;
+    background-position: -74px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bf {
-    background-position: -2px -312px;
+    background-position: -74px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bg {
-    background-position: -2px -326px;
+    background-position: -74px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bh {
-    background-position: -2px -340px;
+    background-position: -74px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bi {
-    background-position: -2px -354px;
+    background-position: -2px -74px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bj {
-    background-position: -2px -368px;
+    background-position: -20px -74px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bl {
-    background-position: -2px -382px;
+    background-position: -38px -74px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bm {
-    background-position: -2px -396px;
+    background-position: -56px -74px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bn {
-    background-position: -2px -410px;
+    background-position: -74px -74px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bo {
-    background-position: -2px -424px;
+    background-position: -92px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-br {
-    background-position: -2px -438px;
+    background-position: -92px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bs {
-    background-position: -2px -452px;
+    background-position: -92px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bt {
-    background-position: -2px -466px;
+    background-position: -92px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bw {
-    background-position: -2px -480px;
+    background-position: -92px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-by {
-    background-position: -2px -494px;
+    background-position: -92px -72px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-bz {
-    background-position: -2px -508px;
+    background-position: -2px -88px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ca {
-    background-position: -2px -522px;
+    background-position: -20px -88px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cc {
-    background-position: -2px -536px;
+    background-position: -38px -88px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cd {
-    background-position: -2px -550px;
+    background-position: -56px -88px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cf {
-    background-position: -2px -564px;
+    background-position: -74px -88px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cg {
-    background-position: -2px -578px;
+    background-position: -92px -88px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-ch {
-    background-position: -2px -592px;
-    width: 12px;
-    height: 12px;
-}
 .flagstrap-ci {
-    background-position: -2px -606px;
+    background-position: -110px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ck {
-    background-position: -2px -620px;
+    background-position: -110px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cl {
-    background-position: -2px -634px;
+    background-position: -110px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cm {
-    background-position: -2px -648px;
+    background-position: -110px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cn {
-    background-position: -2px -662px;
+    background-position: -110px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-co {
-    background-position: -2px -676px;
+    background-position: -110px -72px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cr {
-    background-position: -2px -690px;
+    background-position: -110px -86px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ct {
-    background-position: -2px -704px;
+    background-position: -2px -102px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cu {
-    background-position: -2px -718px;
+    background-position: -20px -102px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cv {
-    background-position: -2px -732px;
+    background-position: -38px -102px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cw {
-    background-position: -2px -746px;
+    background-position: -56px -102px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cx {
-    background-position: -2px -760px;
+    background-position: -74px -102px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cy {
-    background-position: -2px -774px;
+    background-position: -92px -102px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-cz {
-    background-position: -2px -788px;
+    background-position: -110px -102px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-de {
-    background-position: -2px -802px;
+    background-position: -128px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-dj {
-    background-position: -2px -816px;
+    background-position: -128px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-dk {
-    background-position: -2px -830px;
+    background-position: -128px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-dm {
-    background-position: -2px -844px;
+    background-position: -128px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-do {
-    background-position: -2px -858px;
+    background-position: -128px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-dz {
-    background-position: -2px -872px;
+    background-position: -128px -72px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ec {
-    background-position: -2px -886px;
+    background-position: -128px -86px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ee {
-    background-position: -2px -900px;
+    background-position: -128px -100px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-eg {
-    background-position: -2px -914px;
+    background-position: -2px -116px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-eh {
-    background-position: -2px -928px;
+    background-position: -20px -116px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-er {
-    background-position: -2px -942px;
+    background-position: -38px -116px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-es {
-    background-position: -2px -956px;
+    background-position: -56px -116px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-et {
-    background-position: -2px -970px;
+    background-position: -74px -116px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-eu {
-    background-position: -2px -984px;
+    background-position: -92px -116px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-fi {
-    background-position: -2px -998px;
+    background-position: -110px -116px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-fj {
-    background-position: -2px -1012px;
+    background-position: -128px -116px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-fk {
-    background-position: -2px -1026px;
+    background-position: -2px -130px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-fm {
-    background-position: -2px -1040px;
+    background-position: -20px -130px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-fo {
-    background-position: -2px -1054px;
+    background-position: -38px -130px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-fr {
-    background-position: -2px -1068px;
+    background-position: -56px -130px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ga {
-    background-position: -2px -1082px;
+    background-position: -74px -130px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gb {
-    background-position: -2px -1096px;
+    background-position: -92px -130px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gd {
-    background-position: -2px -1110px;
+    background-position: -110px -130px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ge {
-    background-position: -2px -1124px;
+    background-position: -128px -130px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gg {
-    background-position: -2px -1138px;
+    background-position: -146px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gh {
-    background-position: -2px -1152px;
+    background-position: -146px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gi {
-    background-position: -2px -1166px;
+    background-position: -146px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gl {
-    background-position: -2px -1180px;
+    background-position: -146px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gm {
-    background-position: -2px -1194px;
+    background-position: -146px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gn {
-    background-position: -2px -1208px;
+    background-position: -146px -72px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gq {
-    background-position: -2px -1222px;
+    background-position: -146px -86px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gr {
-    background-position: -2px -1236px;
+    background-position: -146px -100px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gs {
-    background-position: -2px -1250px;
+    background-position: -146px -114px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gt {
-    background-position: -2px -1264px;
+    background-position: -146px -128px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gu {
-    background-position: -2px -1278px;
+    background-position: -2px -144px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gw {
-    background-position: -2px -1292px;
+    background-position: -20px -144px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-gy {
-    background-position: -2px -1306px;
+    background-position: -38px -144px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-hk {
-    background-position: -2px -1320px;
+    background-position: -56px -144px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-hn {
-    background-position: -2px -1334px;
+    background-position: -74px -144px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-hr {
-    background-position: -2px -1348px;
+    background-position: -92px -144px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ht {
-    background-position: -2px -1362px;
+    background-position: -110px -144px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-hu {
-    background-position: -2px -1376px;
+    background-position: -128px -144px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ic {
-    background-position: -2px -1390px;
+    background-position: -146px -144px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-id {
-    background-position: -2px -1404px;
+    background-position: -164px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ie {
-    background-position: -2px -1418px;
+    background-position: -164px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-il {
-    background-position: -2px -1432px;
+    background-position: -164px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-im {
-    background-position: -2px -1446px;
+    background-position: -164px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-in {
-    background-position: -2px -1460px;
+    background-position: -164px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-iq {
-    background-position: -2px -1474px;
+    background-position: -164px -72px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ir {
-    background-position: -2px -1488px;
+    background-position: -164px -86px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-is {
-    background-position: -2px -1502px;
+    background-position: -164px -100px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-it {
-    background-position: -2px -1516px;
+    background-position: -164px -114px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-je {
-    background-position: -2px -1530px;
+    background-position: -164px -128px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-jm {
-    background-position: -2px -1544px;
+    background-position: -164px -142px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-jo {
-    background-position: -2px -1558px;
+    background-position: -2px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-jp {
-    background-position: -2px -1572px;
+    background-position: -20px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ke {
-    background-position: -2px -1586px;
+    background-position: -38px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-kg {
-    background-position: -2px -1600px;
+    background-position: -56px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-kh {
-    background-position: -2px -1614px;
+    background-position: -74px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ki {
-    background-position: -2px -1628px;
+    background-position: -92px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-km {
-    background-position: -2px -1642px;
+    background-position: -110px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-kn {
-    background-position: -2px -1656px;
+    background-position: -128px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-kp {
-    background-position: -2px -1670px;
+    background-position: -146px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-kr {
-    background-position: -2px -1684px;
+    background-position: -164px -158px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-kw {
-    background-position: -2px -1698px;
+    background-position: -182px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ky {
-    background-position: -2px -1712px;
+    background-position: -182px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-kz {
-    background-position: -2px -1726px;
+    background-position: -182px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-la {
-    background-position: -2px -1740px;
+    background-position: -182px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-lb {
-    background-position: -2px -1754px;
+    background-position: -182px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-lc {
-    background-position: -2px -1768px;
+    background-position: -182px -72px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-li {
-    background-position: -2px -1782px;
+    background-position: -182px -86px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-lk {
-    background-position: -2px -1796px;
+    background-position: -182px -100px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-lr {
-    background-position: -2px -1810px;
+    background-position: -182px -114px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ls {
-    background-position: -2px -1824px;
+    background-position: -182px -128px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-lt {
-    background-position: -2px -1838px;
+    background-position: -182px -142px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-lu {
-    background-position: -2px -1852px;
+    background-position: -182px -156px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-lv {
-    background-position: -2px -1866px;
+    background-position: -2px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ly {
-    background-position: -2px -1880px;
+    background-position: -20px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ma {
-    background-position: -2px -1894px;
+    background-position: -38px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mc {
-    background-position: -2px -1908px;
+    background-position: -56px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-md {
-    background-position: -2px -1922px;
+    background-position: -74px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-me {
-    background-position: -2px -1936px;
+    background-position: -92px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mf {
-    background-position: -2px -1950px;
+    background-position: -110px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mg {
-    background-position: -2px -1964px;
+    background-position: -128px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mh {
-    background-position: -2px -1978px;
+    background-position: -146px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mk {
-    background-position: -2px -1992px;
+    background-position: -164px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ml {
-    background-position: -2px -2006px;
+    background-position: -182px -172px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mm {
-    background-position: -2px -2020px;
+    background-position: -2px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mn {
-    background-position: -2px -2034px;
+    background-position: -20px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mo {
-    background-position: -2px -2048px;
+    background-position: -38px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mp {
-    background-position: -2px -2062px;
+    background-position: -56px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mq {
-    background-position: -2px -2076px;
+    background-position: -74px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mr {
-    background-position: -2px -2090px;
+    background-position: -92px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ms {
-    background-position: -2px -2104px;
+    background-position: -110px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mt {
-    background-position: -2px -2118px;
+    background-position: -128px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mu {
-    background-position: -2px -2132px;
+    background-position: -146px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mv {
-    background-position: -2px -2146px;
+    background-position: -164px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mw {
-    background-position: -2px -2160px;
+    background-position: -182px -186px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mx {
-    background-position: -2px -2174px;
+    background-position: -200px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-my {
-    background-position: -2px -2188px;
+    background-position: -200px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-mz {
-    background-position: -2px -2202px;
+    background-position: -200px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-na {
-    background-position: -2px -2216px;
+    background-position: -200px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-nc {
-    background-position: -2px -2230px;
+    background-position: -200px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ne {
-    background-position: -2px -2244px;
+    background-position: -200px -72px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-nf {
-    background-position: -2px -2258px;
+    background-position: -200px -86px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ng {
-    background-position: -2px -2272px;
+    background-position: -200px -100px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ni {
-    background-position: -2px -2286px;
+    background-position: -200px -114px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-nl {
-    background-position: -2px -2300px;
+    background-position: -200px -128px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-no {
-    background-position: -2px -2314px;
+    background-position: -200px -142px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-np {
-    background-position: -2px -2328px;
-    width: 12px;
-    height: 14px;
-}
 .flagstrap-nr {
-    background-position: -2px -2344px;
+    background-position: -200px -156px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-nu {
-    background-position: -2px -2358px;
+    background-position: -200px -170px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-nz {
-    background-position: -2px -2372px;
+    background-position: -200px -184px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-om {
-    background-position: -2px -2386px;
+    background-position: -2px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pa {
-    background-position: -2px -2400px;
+    background-position: -20px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pe {
-    background-position: -2px -2414px;
+    background-position: -38px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pf {
-    background-position: -2px -2428px;
+    background-position: -56px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pg {
-    background-position: -2px -2442px;
+    background-position: -74px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ph {
-    background-position: -2px -2456px;
+    background-position: -92px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pk {
-    background-position: -2px -2470px;
+    background-position: -110px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pl {
-    background-position: -2px -2484px;
+    background-position: -128px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pn {
-    background-position: -2px -2498px;
+    background-position: -146px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pr {
-    background-position: -2px -2512px;
+    background-position: -164px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ps {
-    background-position: -2px -2526px;
+    background-position: -182px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pt {
-    background-position: -2px -2540px;
+    background-position: -200px -200px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-pw {
-    background-position: -2px -2554px;
+    background-position: -218px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-py {
-    background-position: -2px -2568px;
+    background-position: -218px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-qa {
-    background-position: -2px -2582px;
+    background-position: -218px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-re {
-    background-position: -2px -2596px;
+    background-position: -218px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ro {
-    background-position: -2px -2610px;
+    background-position: -218px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-rs {
-    background-position: -2px -2624px;
+    background-position: -218px -72px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ru {
-    background-position: -2px -2638px;
+    background-position: -218px -86px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-rw {
-    background-position: -2px -2652px;
+    background-position: -218px -100px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sa {
-    background-position: -2px -2666px;
+    background-position: -218px -114px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sb {
-    background-position: -2px -2680px;
+    background-position: -218px -128px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sc {
-    background-position: -2px -2694px;
+    background-position: -218px -142px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sd {
-    background-position: -2px -2708px;
+    background-position: -218px -156px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-se {
-    background-position: -2px -2722px;
+    background-position: -218px -170px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sg {
-    background-position: -2px -2736px;
+    background-position: -218px -184px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sh {
-    background-position: -2px -2750px;
+    background-position: -218px -198px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-si {
-    background-position: -2px -2764px;
+    background-position: -2px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sk {
-    background-position: -2px -2778px;
+    background-position: -20px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sl {
-    background-position: -2px -2792px;
+    background-position: -38px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sm {
-    background-position: -2px -2806px;
+    background-position: -56px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sn {
-    background-position: -2px -2820px;
+    background-position: -74px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-so {
-    background-position: -2px -2834px;
+    background-position: -92px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sr {
-    background-position: -2px -2848px;
+    background-position: -110px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ss {
-    background-position: -2px -2862px;
+    background-position: -128px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-st {
-    background-position: -2px -2876px;
+    background-position: -146px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sv {
-    background-position: -2px -2890px;
+    background-position: -164px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sx {
-    background-position: -2px -2904px;
+    background-position: -182px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sy {
-    background-position: -2px -2918px;
+    background-position: -200px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-sz {
-    background-position: -2px -2932px;
+    background-position: -218px -214px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tc {
-    background-position: -2px -2946px;
+    background-position: -236px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-td {
-    background-position: -2px -2960px;
+    background-position: -236px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tf {
-    background-position: -2px -2974px;
+    background-position: -236px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tg {
-    background-position: -2px -2988px;
+    background-position: -236px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-th {
-    background-position: -2px -3002px;
+    background-position: -236px -58px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tj {
-    background-position: -2px -3016px;
+    background-position: -236px -72px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tk {
-    background-position: -2px -3030px;
+    background-position: -236px -86px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tl {
-    background-position: -2px -3044px;
+    background-position: -236px -100px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tm {
-    background-position: -2px -3058px;
+    background-position: -236px -114px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tn {
-    background-position: -2px -3072px;
+    background-position: -236px -128px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-to {
-    background-position: -2px -3086px;
+    background-position: -236px -142px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tr {
-    background-position: -2px -3100px;
+    background-position: -236px -156px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tt {
-    background-position: -2px -3114px;
+    background-position: -236px -170px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tv {
-    background-position: -2px -3128px;
+    background-position: -236px -184px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tw {
-    background-position: -2px -3142px;
+    background-position: -236px -198px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-tz {
-    background-position: -2px -3156px;
+    background-position: -236px -212px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ua {
-    background-position: -2px -3170px;
+    background-position: -2px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ug {
-    background-position: -2px -3184px;
+    background-position: -20px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-us {
-    background-position: -2px -3198px;
+    background-position: -38px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-uy {
-    background-position: -2px -3212px;
+    background-position: -56px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-uz {
-    background-position: -2px -3226px;
+    background-position: -74px -228px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-va {
-    background-position: -2px -3240px;
-    width: 12px;
-    height: 12px;
-}
 .flagstrap-vc {
-    background-position: -2px -3254px;
+    background-position: -92px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ve {
-    background-position: -2px -3268px;
+    background-position: -110px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-vg {
-    background-position: -2px -3282px;
+    background-position: -128px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-vi {
-    background-position: -2px -3296px;
+    background-position: -146px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-vn {
-    background-position: -2px -3310px;
+    background-position: -164px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-vu {
-    background-position: -2px -3324px;
+    background-position: -182px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-wf {
-    background-position: -2px -3338px;
+    background-position: -200px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ws {
-    background-position: -2px -3352px;
+    background-position: -218px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-xk {
-    background-position: -2px -3366px;
+    background-position: -236px -228px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-ye {
-    background-position: -2px -3380px;
+    background-position: -254px -2px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-yt {
-    background-position: -2px -3394px;
+    background-position: -254px -16px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-za {
-    background-position: -2px -3408px;
+    background-position: -254px -30px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-zm {
-    background-position: -2px -3422px;
+    background-position: -254px -44px;
     width: 16px;
     height: 11px;
 }
 .flagstrap-zw {
-    background-position: -2px -3436px;
+    background-position: -254px -58px;
     width: 16px;
     height: 11px;
+}
+.flagstrap-np {
+    background-position: -254px -72px;
+    width: 12px;
+    height: 14px;
+}
+.flagstrap-ch {
+    background-position: -254px -88px;
+    width: 12px;
+    height: 12px;
+}
+.flagstrap-va {
+    background-position: -254px -102px;
+    width: 12px;
+    height: 12px;
 }
