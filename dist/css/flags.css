@@ -15,7 +15,7 @@
     only screen and (min-resolution: 1.5dppx) {
     .flagstrap {
         background-image: url('flagstrap@1.5x.png');
-        background-size: 20px 3434px;
+        background-size: 20px 3448px;
     }
 }
 @media
@@ -27,7 +27,7 @@
     only screen and (min-resolution: 2dppx) {
     .flagstrap {
         background-image: url('flagstrap@2x.png');
-        background-size: 20px 3434px;
+        background-size: 20px 3448px;
     }
 }
 @media
@@ -39,7 +39,7 @@
     only screen and (min-resolution: 2.5dppx) {
     .flagstrap {
         background-image: url('flagstrap@3x.png');
-        background-size: 20px 3434px;
+        background-size: 20px 3448px;
     }
 }
 @media
@@ -51,7 +51,7 @@
     only screen and (min-resolution: 3.5dppx) {
     .flagstrap {
         background-image: url('flagstrap@4x.png');
-        background-size: 20px 3434px;
+        background-size: 20px 3448px;
     }
 }
 .flagstrap-ad {
@@ -1249,28 +1249,33 @@
     width: 16px;
     height: 11px;
 }
-.flagstrap-ye {
+.flagstrap-xk {
     background-position: -2px -3366px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-yt {
+.flagstrap-ye {
     background-position: -2px -3380px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-za {
+.flagstrap-yt {
     background-position: -2px -3394px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-zm {
+.flagstrap-za {
     background-position: -2px -3408px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-zw {
+.flagstrap-zm {
     background-position: -2px -3422px;
+    width: 16px;
+    height: 11px;
+}
+.flagstrap-zw {
+    background-position: -2px -3436px;
     width: 16px;
     height: 11px;
 }
