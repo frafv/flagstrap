@@ -2,9 +2,11 @@
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SprityPath>$(SolutionDir)sprity.exe</SprityPath>
-    <ImageFlagStrapRoot>$(MSBuildProjectDirectory)\node_modules\flag-icons\flags\flags-iso\shiny\</ImageFlagStrapRoot>
+    <ImageFlagStrapDir>node_modules\flag-icons\flags\flags-iso\shiny\</ImageFlagStrapDir>
+    <ImageFlagStrapRoot>$(MSBuildProjectDirectory)\$(ImageFlagStrapDir)</ImageFlagStrapRoot>
     <ImageFlagStrapOutPath>$(SolutionDir)dist\css</ImageFlagStrapOutPath>
     <ImageFlagStrapOutFile>$(ImageFlagStrapOutPath)\flags.css</ImageFlagStrapOutFile>
+    <ImageFlagStrapCustomRoot>$(MSBuildProjectDirectory)\$(ImageFlagStrapCustomDir)</ImageFlagStrapCustomRoot>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,7 +20,13 @@
   <Target Name="Build"
           Inputs="@(ImageFlagStrap)"
           Outputs="$(ImageFlagStrapOutFile)">
-    <Exec Command="&quot;$(SprityPath)&quot; create &quot;$(ImageFlagStrapOutPath)&quot; &quot;16\??.png&quot; &quot;1.5:24\??.png&quot; &quot;2:32\??.png&quot; &quot;3:48\??.png&quot; &quot;4:64\??.png&quot; -d 1 -d 1.5 -d 2 -d 3 -d 4 -n flagstrap -s flags --style-indent-size 4 --margin 1 --trim --css-path . --blank-icon --orientation binary-tree"
-          WorkingDirectory="$(ImageFlagStrapRoot)" />
+    <PropertyGroup>
+      <ImageFlagStrapInFiles>&quot;$(ImageFlagStrapDir)16\??.png&quot; &quot;1.5:$(ImageFlagStrapDir)24\??.png&quot; &quot;2:$(ImageFlagStrapDir)32\??.png&quot; &quot;3:$(ImageFlagStrapDir)48\??.png&quot; &quot;4:$(ImageFlagStrapDir)64\??.png&quot;</ImageFlagStrapInFiles>
+      <ImageFlagStrapOptions>-d 1 -d 1.5 -d 2 -d 3 -d 4 -n flagstrap -s flags --style-indent-size 4 --margin 1 --trim --css-path . --blank-icon --orientation binary-tree</ImageFlagStrapOptions>
+      <ImageFlagStrapAliases>--alias BV=NO --alias CS=CZ --alias FX=FR --alias GF=FR --alias GP=FR --alias HM=AU --alias PM=FR --alias RE=FR --alias SJ=NO --alias TP=TL --alias UM=US</ImageFlagStrapAliases>
+    </PropertyGroup>
+
+    <Exec Command="&quot;$(SprityPath)&quot; create &quot;$(ImageFlagStrapOutPath)&quot; $(ImageFlagStrapInFiles) $(ImageFlagStrapOptions) $(ImageFlagStrapAliases)"
+          WorkingDirectory="$(MSBuildProjectDirectory)" />
   </Target>
 </Project>
