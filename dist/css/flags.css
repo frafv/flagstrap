@@ -15,7 +15,7 @@
     only screen and (min-resolution: 1.5dppx) {
     .flagstrap {
         background-image: url('flagstrap@1.5x.png');
-        background-size: 272px 242px;
+        background-size: 272px 256px;
     }
 }
 @media
@@ -27,7 +27,7 @@
     only screen and (min-resolution: 2dppx) {
     .flagstrap {
         background-image: url('flagstrap@2x.png');
-        background-size: 272px 242px;
+        background-size: 272px 256px;
     }
 }
 @media
@@ -39,7 +39,7 @@
     only screen and (min-resolution: 2.5dppx) {
     .flagstrap {
         background-image: url('flagstrap@3x.png');
-        background-size: 272px 242px;
+        background-size: 272px 256px;
     }
 }
 @media
@@ -51,7 +51,7 @@
     only screen and (min-resolution: 3.5dppx) {
     .flagstrap {
         background-image: url('flagstrap@4x.png');
-        background-size: 272px 242px;
+        background-size: 272px 256px;
     }
 }
 .flagstrap-ad {
@@ -1264,63 +1264,73 @@
     width: 16px;
     height: 11px;
 }
-.flagstrap-bq {
+.flagstrap-ab {
     background-position: -254px -72px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-bu {
+.flagstrap-bq {
     background-position: -254px -86px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-dd {
+.flagstrap-bu {
     background-position: -254px -100px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-hv {
+.flagstrap-dd {
     background-position: -254px -114px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-io {
+.flagstrap-hv {
     background-position: -254px -128px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-su {
+.flagstrap-io {
     background-position: -254px -142px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-yd {
+.flagstrap-os {
     background-position: -254px -156px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-yu {
+.flagstrap-su {
     background-position: -254px -170px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-zr {
+.flagstrap-yd {
     background-position: -254px -184px;
     width: 16px;
     height: 11px;
 }
-.flagstrap-np {
+.flagstrap-yu {
     background-position: -254px -198px;
+    width: 16px;
+    height: 11px;
+}
+.flagstrap-zr {
+    background-position: -254px -212px;
+    width: 16px;
+    height: 11px;
+}
+.flagstrap-np {
+    background-position: -254px -226px;
     width: 12px;
     height: 14px;
 }
 .flagstrap-ch {
-    background-position: -254px -214px;
+    background-position: -2px -242px;
     width: 12px;
     height: 12px;
 }
 .flagstrap-va {
-    background-position: -254px -228px;
+    background-position: -16px -242px;
     width: 12px;
     height: 12px;
 }
